@@ -1,0 +1,9 @@
+Cloud Computing --> getting services on demand, getting software on demand, pay per use
+
+providing services
+
+computing resources --> softwares, OS, virtual servers
+
+Request service provider --> AWS, Microsoft Azure, Google Cloud
+
+AWS account
