@@ -1,0 +1,25 @@
+Elastic Beanstalk
+With Elastic Beanstalk, you can quickly deploy and manage applications in the AWS Cloud without having to learn about the infrastructure that runs those applications.
+
+Flask Demo
+1) python installed in my system
+2) install flask
+pip install Flask
+3) create smaple web application using flask framework
+
+app.py
+from flask import Flask
+
+app = Flask(__name__)
+
+@app.route("/")
+def hello_world():
+    return "<p>Hello, World!</p>"
+
+4) run web application
+ flask --app app/app run
+
+5) click below path and check in browser
+http://127.0.0.1:5000/
+
+Deploying in AWS using Elastic Beanstalk

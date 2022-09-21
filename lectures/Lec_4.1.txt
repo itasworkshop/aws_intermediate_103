@@ -1,0 +1,44 @@
+RDS --> Relational Databases services
+
+
+Data --> useful information
+Database --> software/system used to organise/manage your data
+examples:- Microsoft excel, microsoft access, file system
+
+Datbase management system
+Oracle compamy 
+RDBMS 
+Relational Database management system --> SQL structured query language
+
+example:-
+oracle database
+mysql database
+DB2 database
+sql server microsoft
+
+
+RDBMS -->Relational Database management system
+college data
+
+Departments
+d_id  	dname  		location
+111		Humanity		Block-c
+222		Science		Block-b
+333		Arts			Block-a
+
+Students
+sid		sname 		contact			d_id
+101		Rajesh		12345				222
+102		Suraj			12345				111
+
+
+A DB instance is an isolated database environment running in the cloud.
+
+https://www.mysql.com/products/workbench/
+
+
+
+
+
+
+
